@@ -1,2 +1,1 @@
-# Marketing_campaigns_ab_testing
-Marketing Testing using AB testing 
+# Marketing Campaigns Using AB Hypothesis Test
